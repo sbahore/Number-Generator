@@ -12,6 +12,9 @@ Run com.vmware.numbergenerator.NumberGeneratorApplication as a Java Application.
 
 - http://35.232.142.201/swagger-ui.html
 
+### Running the Integration tests
+- Ensure that the application is running before running the cucumber test.
+
 ### Plugins
 
 - Gherkin
@@ -21,3 +24,4 @@ Run com.vmware.numbergenerator.NumberGeneratorApplication as a Java Application.
 ### GIT Repository
 
 - https://github.com/sbahore/number-generator.git
+
