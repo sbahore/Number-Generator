@@ -10,7 +10,7 @@ Run com.vmware.numbergenerator.NumberGeneratorApplication as a Java Application.
 
 ### Running the Application deployed on Cloud
 
-- http://
+- http://35.232.142.201/swagger-ui.html
 
 ### Plugins
 
